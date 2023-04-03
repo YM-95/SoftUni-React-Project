@@ -1,0 +1,35 @@
+.navigation {
+    display: flex;
+    justify-content: flex-end;
+    background-color: black;
+    padding: 1.5rem;
+}
+
+.logoContainer {
+    position: absolute;
+    top: 0.4rem;
+    left: 5rem;
+}
+
+.logoContainer img {
+    width: 4rem;
+    height: auto;
+}
+
+
+.nav-li {
+    list-style-type: none;
+    margin-right: 8rem;
+    overflow: hidden;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+    font-size: 1.5rem;
+}
+
+.link:hover {
+    color: bisque;
+    transition: 0.1s;
+}
