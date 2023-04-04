@@ -1,11 +1,10 @@
 
 
 const Catalog = () => {
-
-
     return (
-        <h1>Catalog Page</h1>
+        <h1>Catalog</h1>
     )
+
 
 };
 

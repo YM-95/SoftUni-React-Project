@@ -1,23 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 * {
   margin: 0;
   box-sizing: border-box;
-}
-
-
-
-
-.login-container {
-  width: 50%;
-  height: 40rem;
-  margin: 6rem auto;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  background-color: darksalmon;
-  border-radius: 2rem;
-}
-
-.login-container h1 {
-
-  margin-bottom: 2rem;
 }
